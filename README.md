@@ -17,6 +17,8 @@ Our visualizer provides an intuitive and hands-on way to tackle this problem:
 Try It Out!
 Experience the N-Queen problem in action and see how it all works. Click the link below to get started:
 
-Try Using This Visualizer by Yourself [**N-Queen Visualizer**](https://inflectra.com).
+Try Using This Visualizer by Yourself
+
+[**N-Queen Visualizer**](https://anujsingh21.github.io/N-Queens-Visualization/).
 
 Explore, learn, and enjoy the fascinating world of the N-Queen problem!
